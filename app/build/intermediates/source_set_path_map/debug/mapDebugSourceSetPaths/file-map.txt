@@ -1,0 +1,34 @@
+com.example.macconverter.app-lifecycle-livedata-2.6.2-0 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\0349f0026545e5de51bd24e01374c425\transformed\lifecycle-livedata-2.6.2\res
+com.example.macconverter.app-appcompat-resources-1.7.0-1 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\07b41c34e87f69dfea163f1437595787\transformed\appcompat-resources-1.7.0\res
+com.example.macconverter.app-appcompat-1.7.0-2 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\170b90c80898516724a78cbfb48e47e9\transformed\appcompat-1.7.0\res
+com.example.macconverter.app-viewpager2-1.0.0-3 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\1c28833ce0e1a63afb3bbab9b74c1d50\transformed\viewpager2-1.0.0\res
+com.example.macconverter.app-lifecycle-viewmodel-2.6.2-4 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\237394d8216de582b781dd838bda18ee\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.macconverter.app-lifecycle-livedata-core-2.6.2-5 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\245c98b13319caf45cb9a6d8fcc6e400\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.macconverter.app-fragment-1.5.4-6 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\2b5f8af6243dd800d6c00040ece695fe\transformed\fragment-1.5.4\res
+com.example.macconverter.app-core-runtime-2.2.0-7 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\2b7d65ff8754ab34918b13c13bba3db6\transformed\core-runtime-2.2.0\res
+com.example.macconverter.app-emoji2-views-helper-1.3.0-8 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\2c0aae8e977aefc1149db657fbff45a2\transformed\emoji2-views-helper-1.3.0\res
+com.example.macconverter.app-constraintlayout-2.1.4-9 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\2e3a7431512b65d2644a36a1b8636dea\transformed\constraintlayout-2.1.4\res
+com.example.macconverter.app-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\3b8614f3488c3c85c88669d535e443ea\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.macconverter.app-savedstate-1.2.1-11 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\483ef2b3f86ca38ddd3f59b7125f2395\transformed\savedstate-1.2.1\res
+com.example.macconverter.app-core-1.13.1-12 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\50361e6a1776ba02f4ddf7df555de0ba\transformed\core-1.13.1\res
+com.example.macconverter.app-cardview-1.0.0-13 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\6fdda23c61c39d3ed3c71b6e293b5811\transformed\cardview-1.0.0\res
+com.example.macconverter.app-material-1.12.0-14 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\78634e86d05b1429d003faac62fca97b\transformed\material-1.12.0\res
+com.example.macconverter.app-core-ktx-1.13.1-15 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\7e124f1d767c0d446337570acae73fe5\transformed\core-ktx-1.13.1\res
+com.example.macconverter.app-lifecycle-process-2.6.2-16 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\80238b103cba0caef9dda138e3f1e240\transformed\lifecycle-process-2.6.2\res
+com.example.macconverter.app-recyclerview-1.1.0-17 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\9517fbc5e702183e9661c5d3967f3b3f\transformed\recyclerview-1.1.0\res
+com.example.macconverter.app-emoji2-1.3.0-18 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\95983fca32b4516ee4bf4dd6a92142b8\transformed\emoji2-1.3.0\res
+com.example.macconverter.app-coordinatorlayout-1.1.0-19 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\9c56ae20ef56cffcb3ee820fbfa292e3\transformed\coordinatorlayout-1.1.0\res
+com.example.macconverter.app-activity-1.8.0-20 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\a6e00b834a7269d161404c01dd115256\transformed\activity-1.8.0\res
+com.example.macconverter.app-drawerlayout-1.1.1-21 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\b516208dee568afed1bb72b935ce89ad\transformed\drawerlayout-1.1.1\res
+com.example.macconverter.app-annotation-experimental-1.4.0-22 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\b53657c3fa3ff7b675ac9baa6a5d2bee\transformed\annotation-experimental-1.4.0\res
+com.example.macconverter.app-profileinstaller-1.3.1-23 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\dd8eef8c12cee9641cb860bdb7b70a51\transformed\profileinstaller-1.3.1\res
+com.example.macconverter.app-transition-1.5.0-24 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\dec42c7c4c7aeaae5d1180df4d2917f0\transformed\transition-1.5.0\res
+com.example.macconverter.app-startup-runtime-1.1.1-25 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\e14ead9ea8cf5004aee169166e9e8ca6\transformed\startup-runtime-1.1.1\res
+com.example.macconverter.app-lifecycle-runtime-2.6.2-26 C:\Users\94752\.gradle\caches\9.0-milestone-1\transforms\e4fadd84d65370d9103bf0cc101d497d\transformed\lifecycle-runtime-2.6.2\res
+com.example.macconverter.app-pngs-27 C:\Users\94752\Desktop\MAc Converter\app\build\generated\res\pngs\debug
+com.example.macconverter.app-resValues-28 C:\Users\94752\Desktop\MAc Converter\app\build\generated\res\resValues\debug
+com.example.macconverter.app-packageDebugResources-29 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.macconverter.app-packageDebugResources-30 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.macconverter.app-debug-31 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.macconverter.app-debug-32 C:\Users\94752\Desktop\MAc Converter\app\src\debug\res
+com.example.macconverter.app-main-33 C:\Users\94752\Desktop\MAc Converter\app\src\main\res

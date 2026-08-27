@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_shuffle.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_restore.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_restore.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_bg_badge.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_flash.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_flash.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_chip.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_chip.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_wifi.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_wifi.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_android.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_android.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.macconverter.app-debug-31:/drawable_bg_terminal.xml.flat",
+        "source": "com.example.macconverter.app-main-33:/drawable/bg_terminal.xml"
+    }
+]

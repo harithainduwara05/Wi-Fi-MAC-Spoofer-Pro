@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern App Palette -->
+    <color name="brand_primary">#6366F1</color>
+    <color name="brand_primary_variant">#4F46E5</color>
+    <color name="brand_secondary">#06B6D4</color>
+    <color name="brand_background">#0F172A</color>
+    <color name="brand_surface">#1E293B</color>
+    <color name="brand_card">#1E293B</color>
+    <color name="brand_card_stroke">#334155</color>
+    <color name="brand_text_primary">#F8FAFC</color>
+    <color name="brand_text_secondary">#94A3B8</color>
+    <color name="brand_text_muted">#64748B</color>
+    
+    <!-- Status Colors -->
+    <color name="status_success">#10B981</color>
+    <color name="status_success_bg">#1A10B981</color>
+    <color name="status_error">#EF4444</color>
+    <color name="status_error_bg">#1AEF4444</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_info">#38BDF8</color>
+
+    <color name="console_bg">#0A0F1D</color>
+    <color name="console_text">#38BDF8</color>
+</resources>

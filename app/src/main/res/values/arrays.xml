@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Scope of system packages hooked by LSPosed / Xposed -->
+    <string-array name="xposed_scope">
+        <item>android</item>
+        <item>com.android.wifi</item>
+        <item>com.google.android.wifi</item>
+        <item>com.android.networkstack</item>
+    </string-array>
+</resources>
