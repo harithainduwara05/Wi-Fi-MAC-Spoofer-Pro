@@ -1,0 +1,5 @@
+# Exclude Gradle files, wrapper scripts and assets from Language stats
+gradlew linguist-vendored
+gradlew.bat linguist-vendored
+gradle/** linguist-vendored
+.gradle/** linguist-vendored
