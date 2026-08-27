@@ -1,4 +1,0 @@
-com.example.macconverter.test.app-androidTest-0 C:\Users\94752\Desktop\MAc Converter\app\build\generated\res\resValues\androidTest\debug
-com.example.macconverter.test.app-mergeDebugAndroidTestResources-1 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.macconverter.test.app-mergeDebugAndroidTestResources-2 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.macconverter.test.app-debugAndroidTest-3 C:\Users\94752\Desktop\MAc Converter\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
